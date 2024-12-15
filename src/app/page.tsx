@@ -4,7 +4,6 @@ import Navbar from "./components/Navbar/Navbar";
 import Hero from "./components/Hero";
 import Items from "./components/Items";
 import FoodCategory from "./components/FootCategory";
-import LanguageDropdown from "./components/LanguageDropDown";
 import MenuComponent from "./components/MenuItems";
 import MeetShef from "./components/MeetShef";
 import Testimonials from "./components/Testimonials";
@@ -12,6 +11,7 @@ import RestaurantActive from "./components/RestarurntActive";
 import Blog from "./components/Blog";
 import AboutUs from "./components/AboutUs";
 import Footer from "./components/Footer/Footer";
+// import LanguageDropdown from "./components/LanguageDropDown";
 export default function Home() {
   return (
     <>
@@ -28,8 +28,6 @@ export default function Home() {
     <Testimonials />
     <RestaurantActive />
     <Blog />
-
-    {/* <LanguageDropdown /> */}
 
     <Footer />
     </>

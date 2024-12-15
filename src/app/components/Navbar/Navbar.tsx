@@ -15,7 +15,7 @@ export default function Navbar() {
     <nav className="bg-black text-white shadow-md">
       <div className="container mx-auto px-6 lg:px-12 py-4 flex justify-between items-center">
         {/* Logo */}
-        <a href="/" className="text-2xl font-bold">
+        <a href="#" className="text-2xl font-bold">
           Food<span className="text-orange-500">tuck</span>
         </a>
 

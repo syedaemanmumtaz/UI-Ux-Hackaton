@@ -1,6 +1,5 @@
 import React from "react";
 import Image from "next/image";
-import { Great_Vibes } from "next/font/google";
 
 // import extra1 from "../assets/extra1.png";
 // import extra2 from "../assets/extra2.png";
